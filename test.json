@@ -1,26 +1,26 @@
 [
     {
-        "url":"1",
-        "icon":"tessa",
-        "color":"006400",
-        "title":"test"
+        "url":"http://its4u022.local:8101",
+        "icon":"navigate",
+        "color":"golden",
+        "title":"MAPS SERVICE"
     },
     {
-        "url":"1",
-        "icon":"tessa",
-        "color":"006400",
-        "title":"test"
+        "url":"http://its4u022.local:8102",
+        "icon":"camera",
+        "color":"maroon",
+        "title":"CAMERA SERVICE"
     },
     {
-        "url":"1",
-        "icon":"tessa",
-        "color":"006400",
-        "title":"test"
+        "url":"http://its4u022.local:8103",
+        "icon":"send",
+        "color":"blueViolet",
+        "title":"FORM SERVICE"
     },
     {
-        "url":"1",
-        "icon":"tessa",
-        "color":"006400",
-        "title":"test"
+        "url":"http://its4u022.local:8104",
+        "icon":"clipboard",
+        "color":"cadetBlue",
+        "title":"REPORT SERVICE"
     }
 ]
